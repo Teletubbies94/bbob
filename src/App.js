@@ -1,5 +1,5 @@
-import logo from './teletubbies.gif';
-import './App.css';
+import logo from './assets/images/teletubbies.gif';
+import './assets/css/App.css';
 
 function App() {
   return (
